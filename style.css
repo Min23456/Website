@@ -41,7 +41,20 @@ footer{
     padding:1rem;
 }
 
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    background: blue;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    margin-top: 1rem;
+}
 
+button:hover {
+    background: lightsalmon;
+}
 
 
 
