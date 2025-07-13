@@ -27,7 +27,7 @@ Here's a sneak peek at the lineup:
 
 ## 🔗 Link 🔗!!!
 
- 👉 [**CILCK NOW!**](https://min23456.github.io/Website/games.html) 👈
+ 👉 [**CILCK NOW!**](https://min23456.github.io/Website/index.html) 👈
 
 
 
