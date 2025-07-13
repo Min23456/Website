@@ -16,7 +16,19 @@ Here's a sneak peek at the lineup:
 
 - Hangman: A wordy challenge that'll teach you about arrays, handling text (strings!), and making sure users type what you expect. ✍️
 
+
+
+## 🖼️ ScreenShot of the Website!!!🖼️
+
+
+<img src="/WebsiteSS.PNG" alt="Website Screenshot" width="1000"/>
+
+
+
 ## 🔗 Link 🔗!!!
 
  👉 [**CILCK NOW!**](https://min23456.github.io/Website/games.html) 👈
+
+
+
 
