@@ -10,7 +10,7 @@ Ever wondered who's typing all this code? 🤔 Head over to the About Me section
 ## 🎮 Games!
 Here's a sneak peek at the lineup:
 
-- Tic-Tac-Toe: The classic brain-teaser! Perfect for mastering game logic, if/else statements, and making things happen on a webpage. 🎯
+- [Tic-Tac-Toe](https://min23456.github.io/Tic-Tac-Toe/): The classic brain-teaser! Perfect for mastering game logic, if/else statements, and making things happen on a webpage. 🎯
 
 - Snake Game: Gobble up pixels in this timeless arcade hit! Learn about grid movement, sneaky collision detection, and keeping your game loop running smoothly. 🐍🍎
 
