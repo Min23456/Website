@@ -16,6 +16,10 @@ Here's a sneak peek at the lineup:
 
 - [Hangman](https://min23456.github.io/Hangman/): A wordy challenge that'll teach you about arrays, handling text (strings!), and making sure users type what you expect. ✍️
 
+- [Number Game (Hot and Cold)](https://min23456.github.io/Number-Game/): A game that will teach you how to get the correct number! It also its about luck. 🔥 ❄️
+
+
+
 
 
 ## 🖼️ ScreenShot of the Website!!!🖼️
