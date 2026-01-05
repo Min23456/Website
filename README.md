@@ -14,7 +14,11 @@ Here's a sneak peek at the lineup:
 
 - [Snake Game](https://min23456.github.io/Snake-Game-V2/): Gobble up pixels in this timeless arcade hit! Learn about grid movement, sneaky collision detection, and keeping your game loop running smoothly. 🐍🍎
 
-- Hangman: A wordy challenge that'll teach you about arrays, handling text (strings!), and making sure users type what you expect. ✍️
+- [Hangman](https://min23456.github.io/Hangman/): A wordy challenge that'll teach you about arrays, handling text (strings!), and making sure users type what you expect. ✍️
+
+- [Number Game (Hot and Cold)](https://min23456.github.io/Number-Game/): A game that will teach you how to get the correct number! It also its about luck. 🔥 ❄️
+
+
 
 
 
