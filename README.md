@@ -20,7 +20,9 @@ Here's a sneak peek at the lineup:
 
 - [Flip Game Memory](https://min23456.github.io/flip-game-memory/): A game that will RAGE You.......... Use your MEMORY AND BRAIN! 🧠 🤓 💀
 
-- [Rock Paper Scissors](https://min23456.github.io/Rock-Paper-Scissors/):👊✋✌️ 🪨 📝 ✂️
+- [Rock Paper Scissors](https://min23456.github.io/Rock-Paper-Scissors/): 👊✋✌️ 🪨 📝 ✂️
+
+- [Coin Flip Game](https://min23456.github.io/Coin-flip-game/): 👤🪙 **OR**  🦅🪙 : 🍀 Use your luck - Or the coin fails you... 🍀
 
   <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/ef8657f5-a3da-4926-967e-709e82ecdc03" />
 
